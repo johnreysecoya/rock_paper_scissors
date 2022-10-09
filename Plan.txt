@@ -1,0 +1,12 @@
+Rock and paper Game
+
+Flow
+
+Enter Game when Ready
+
+create game function
+    create a score container for both user and computer
+    loop the game until one of the score reaches 5
+    create a check_grand_winner function that checks who won
+        > create an if statement below the while loop that checks who among the two reached the score of 5
+    create a function that display the winner 
