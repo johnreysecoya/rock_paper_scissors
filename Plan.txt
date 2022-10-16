@@ -10,3 +10,27 @@ create game function
     create a check_grand_winner function that checks who won
         > create an if statement below the while loop that checks who among the two reached the score of 5
     create a function that display the winner 
+
+# With USING DOM
+
+> create three buttons one for each selection
+    > test if you click each buttton it will return r p s as values
+
+    > create 3 variables select each button
+    
+> Add an event listener to the buttons
+    > it will run the game loop
+
+    > do a one round game
+        > if you click a button 
+            > run the one game result function and put the text content of the button in the user Choice
+            > it will compare the text content of that button to the random text choice of the computer
+  
+
+
+
+
+
+> playRound function with the correct playerSelection
+> create a div for dispalying the results 
+> Display the running score and announce a winner of the game once a player reaches 5 points
